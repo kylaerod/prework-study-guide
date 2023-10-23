@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # <Prework Study Guide Homepage>
 
 ## Description
