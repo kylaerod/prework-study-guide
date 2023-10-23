@@ -8,7 +8,7 @@ This space allows for the average bootcamp student to keep all of the informatio
 
 N/A
 
-## Usage
+## Usage 
 
 This Prework Study guide can be used to learn a little bit about each of the four topics involved in creating a webpage. These topics include: HTML, CSS, Jaascript, and Git.
 
